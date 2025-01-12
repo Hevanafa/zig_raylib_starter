@@ -1,0 +1,3 @@
+# skip compiled files
+.zig-cache
+zig-out
